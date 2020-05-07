@@ -1,0 +1,7 @@
+Some Cool Features:
+
+W3C Valid HTML5 and CSS3
+Responsive Template
+Slick Slider
+Built with Bootstrap
+Google Web Fonts
