@@ -441,7 +441,7 @@ h3.profile-title {
 }
 
 .welcome-text {
-  position: relative;
+  position: sticky;
   z-index: 4;
 }
 .welcome-text h2 {
@@ -451,7 +451,7 @@ h3.profile-title {
   margin-bottom: 30px;
 }
 .welcome-text h5 {
-  font-size: 22px;
+  font-size: 20px;
   color: black;
 }
 
