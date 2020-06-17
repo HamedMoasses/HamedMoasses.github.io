@@ -252,6 +252,12 @@ h4.widget-title {
   text-transform: none;
   margin-bottom: 40px;
 }
+h3.widget-title {
+  font-size: 19px;
+  font-family: 'robotobold';
+  text-transform: none;
+  margin-bottom: 40px;
+}
 
 hr {
   position: relative;
