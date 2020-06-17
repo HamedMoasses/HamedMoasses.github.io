@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5 {
    color: $light-color;
 }
 
-:-ms-input-placeholder {  
+:-ms-input-placeholder {
    color: $light-color;
 }
 
@@ -52,6 +52,12 @@ h1, h2, h3, h4, h5 {
 	@include media(max-width $tablet) {
 		padding: 0 30px;
 	}
+}
+h3.widget-title {
+	font-size: 16px;
+	font-family: 'robotobold';
+	text-transform: none;
+	margin-bottom: 40px;
 }
 
 h4.widget-title {

@@ -245,9 +245,15 @@ h1, h2, h3, h4, h5 {
     padding: 0 30px;
   }
 }
+h3.widget-title {
+  font-size: 19px;
+  font-family: 'robotobold';
+  text-transform: none;
+  margin-bottom: 40px;
+}
 
 h4.widget-title {
-  font-size: 19px;
+  font-size: 17px;
   font-family: 'robotobold';
   text-transform: none;
   margin-bottom: 40px;
